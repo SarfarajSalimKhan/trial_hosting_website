@@ -1,4 +1,3 @@
-function clickMe()
-{
-alert("Button clicked")
+function clickMe() {
+    alert("Button clicked");
 }
